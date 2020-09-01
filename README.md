@@ -1,1 +1,1 @@
-# ConnectFour
+# ConnectFourforPy
